@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "deny": [
+      "mcp__Roblox_Studio__multi_edit",
+      "mcp__Roblox_Studio__generate_procedural_model"
+    ],
+    "ask": [
+      "mcp__Roblox_Studio__execute_luau",
+      "mcp__Roblox_Studio__generate_scene",
+      "mcp__Roblox_Studio__insert_asset",
+      "mcp__Roblox_Studio__subagent",
+      "mcp__Roblox_Studio__create_skill",
+      "mcp__Roblox_Studio__edit_skill",
+      "mcp__Roblox_Studio__upload_image"
+    ]
+  }
+}
